@@ -16,7 +16,7 @@ affiliations:
   - name: Center for Hydro- and Aerodynamics (CHA), Institute of Chemical Engineering, Bulgarian Academy of Sciences, Varna, Bulgaria
     index: 1
 date: 12 September 2026
-bibliography: paper.bib
+bibliography: paper_microring.bib
 ---
 
 # Summary
@@ -37,7 +37,9 @@ an additional windowed generalized-likelihood-ratio (GLR) detector
 evaluated separately through a window-size sweep. Detectors are compared
 via full Delay-versus-False-Alarm-Rate operating frontiers, obtained by
 sweeping each detector's decision threshold, rather than at a single,
-potentially cherry-picked, operating point.
+potentially cherry-picked, operating point. The source code is available
+at `github.com/Kretski/thermo-optic-benchmark`, with an archived release
+on Zenodo [@kretski2025zenodo].
 
 # Statement of need
 
