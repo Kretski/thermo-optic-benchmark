@@ -16,7 +16,7 @@ affiliations:
   - name: Center for Hydro- and Aerodynamics (CHA), Institute of Chemical Engineering, Bulgarian Academy of Sciences, Varna, Bulgaria
     index: 1
 date: 12 September 2026
-bibliography: paper_microring.bib
+bibliography: paper.bib
 ---
 
 # Summary
